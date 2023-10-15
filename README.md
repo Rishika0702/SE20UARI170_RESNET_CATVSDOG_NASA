@@ -10,5 +10,13 @@ ACCURACY FOR 10 EPOCHS-0.96
 
 #### DATASET - https://www.kaggle.com/datasets/robervalt/sunspots
 
+### NASA_RUL
+
+R-Squared Scores for Different Regression Models
+KNN Regressor -79.79%
+SVM - 79.13
+Random Forest - 81.43%
+
+
 
 
